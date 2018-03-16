@@ -19,3 +19,9 @@ Design and layout the flow for the structure of a Music Player app. Note that fo
 * Creating your own Custom Class
 * Looping through an ArrayList
 * Populating a ListView or GridView with an ArrayAdapter
+
+#### Personal Goals: #### 
+
+* Practice using ConstraintLayout
+* Create a circular image 
+
