@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="artist_placeholder">Monatik</string>
+    <string name="artist_placeholder_long">Far far away, behind the word mountains</string>
+    <string name="song_placeholder">Сейчас</string>
+    <string name="song_placeholder_long">Far from the countries Vokalia and Consonantia</string>
+    <string name="played_time">1.54</string>
+    <string name="song_time">3.42</string>
+    <string name="album_placeholder">Звучит</string>
+    <string name="album_placeholder_long">Far from the countries Vokalia and Consonantia</string>
+    <string name="this_album">This Album</string>
+    <string name="playlist">Playlist</string>
+</resources>

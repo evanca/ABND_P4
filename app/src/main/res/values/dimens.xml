@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layout_margin_8dp">8dp</dimen>
+    <dimen name="layout_margin_16dp">16dp</dimen>
+    <dimen name="menu_button_25dp">25dp</dimen>
+    <dimen name="play_pause_button_75dp">75dp</dimen>
+    <dimen name="forward_button_55dp">55dp</dimen>
+    <dimen name="layout_margin_36dp">36dp</dimen>
+    <dimen name="progress_bar_height_12dp">12dp</dimen>
+    <dimen name="now_playing_album_350dp">350dp</dimen>
+    <dimen name="album_thumbnail_160dp">160dp</dimen>
+    <dimen name="layout_margin_24dp">24dp</dimen>
+    <dimen name="this_album_title_180dp">180dp</dimen>
+    <dimen name="grid_view_spacing_4dp">4dp</dimen>
+</resources>
