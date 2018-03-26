@@ -26,7 +26,7 @@ Design and layout the flow for the structure of a Music Player app. Note that fo
 * Create a circular image 
 
 
-##### Credits: #####
+#### Credits: ####
 
 Icons made by Freepik from www.flaticon.com 
 
